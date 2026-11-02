@@ -1,8 +1,8 @@
 # Hi, I'm Raymond 👋
 
-### Electrical & Electronics Engineering | Power Electronics | Embedded Systems | Technical Research
+### Electrical & Electronic Engineering | Power Electronics | Embedded Systems | Technical Research
 
-I'm an Electrical/Electronics Engineering graduate passionate about understanding how technology works and developing practical engineering solutions.
+I'm an Electrical/Electronic Engineering graduate passionate about understanding how technology works and developing practical engineering solutions.
 
 My interests span power electronics, electrical systems, embedded systems, microcontrollers, wireless communications, and emerging technologies. I enjoy analysing technical problems, exploring engineering solutions, and connecting theoretical concepts with practical applications.
 
@@ -12,7 +12,7 @@ I'm also interested in the intersection of engineering and artificial intelligen
 
 ### 🔧 Technical Interests
 
-- ⚡ Electrical & Electronics Engineering
+- ⚡ Electrical & Electronic Engineering
 - 🔌 Power Electronics and Circuit Analysis
 - 🔋 Inverter Systems and Power Systems
 - 🤖 Embedded Systems and ESP32
